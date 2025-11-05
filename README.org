@@ -1,0 +1,8 @@
+**  mini-carbon
+
+A simple, eye-friendly Emacs theme.
+
+[[file:mini-carbon.png]]
+
+
+Inspired from [[https://github.com/tek256/simple-dark][simple-dark]]
